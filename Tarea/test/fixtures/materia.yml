@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nombre: MyString
+  codigomat: MyString
+  dias: 1
+  fechainicio: 2017-08-16 17:45:38
+  estatus: 
+
+two:
+  nombre: MyString
+  codigomat: MyString
+  dias: 1
+  fechainicio: 2017-08-16 17:45:38
+  estatus: 
