@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Catedratico: MyString
+  Edad: 1
+  FechaIngreso: 2017-08-16
+
+two:
+  Catedratico: MyString
+  Edad: 1
+  FechaIngreso: 2017-08-16

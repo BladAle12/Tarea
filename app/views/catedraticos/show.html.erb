@@ -1,0 +1,19 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Catedratico:</strong>
+  <%= @catedratico.Catedratico %>
+</p>
+
+<p>
+  <strong>Edad:</strong>
+  <%= @catedratico.Edad %>
+</p>
+
+<p>
+  <strong>Fechaingreso:</strong>
+  <%= @catedratico.FechaIngreso %>
+</p>
+
+<%= link_to 'Edit', edit_catedratico_path(@catedratico) %> |
+<%= link_to 'Back', catedraticos_path %>

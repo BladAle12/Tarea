@@ -1,0 +1,31 @@
+<p id="notice"><%= notice %></p>
+
+<h1>Listing Catedraticos</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Catedratico</th>
+      <th>Edad</th>
+      <th>Fechaingreso</th>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @catedraticos.each do |catedratico| %>
+      <tr>
+        <td><%= catedratico.Catedratico %></td>
+        <td><%= catedratico.Edad %></td>
+        <td><%= catedratico.FechaIngreso %></td>
+        <td><%= link_to 'Show', catedratico %></td>
+        <td><%= link_to 'Edit', edit_catedratico_path(catedratico) %></td>
+        <td><%= link_to 'Destroy', catedratico, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Catedratico', new_catedratico_path %>

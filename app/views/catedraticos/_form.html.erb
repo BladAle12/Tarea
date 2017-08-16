@@ -1,0 +1,29 @@
+<%= form_for(@catedratico) do |f| %>
+  <% if @catedratico.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@catedratico.errors.count, "error") %> prohibited this catedratico from being saved:</h2>
+
+      <ul>
+      <% @catedratico.errors.full_messages.each do |message| %>
+        <li><%= message %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :Catedratico %><br>
+    <%= f.text_field :Catedratico %>
+  </div>
+  <div class="field">
+    <%= f.label :Edad %><br>
+    <%= f.number_field :Edad %>
+  </div>
+  <div class="field">
+    <%= f.label :FechaIngreso %><br>
+    <%= f.date_select :FechaIngreso %>
+  </div>
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>
