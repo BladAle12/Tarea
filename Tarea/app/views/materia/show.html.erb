@@ -1,0 +1,29 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Nombre:</strong>
+  <%= @materium.nombre %>
+</p>
+
+<p>
+  <strong>Codigomat:</strong>
+  <%= @materium.codigomat %>
+</p>
+
+<p>
+  <strong>Dias:</strong>
+  <%= @materium.dias %>
+</p>
+
+<p>
+  <strong>Fechainicio:</strong>
+  <%= @materium.fechainicio %>
+</p>
+
+<p>
+  <strong>Estatus:</strong>
+  <%= @materium.estatus %>
+</p>
+
+<%= link_to 'Edit', edit_materium_path(@materium) %> |
+<%= link_to 'Back', materia_path %>

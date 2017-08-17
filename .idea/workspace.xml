@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="7e613bcf-7e1a-46cc-9c88-899805dcd6f9" name="Default" comment="" />
+=======
+    <list default="true" id="555a84da-052c-4f4d-9c2e-b74734bf5d74" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tarea/.idea/.generators" afterPath="$PROJECT_DIR$/Tarea/.idea/.generators" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tarea/.idea/.rakeTasks" afterPath="$PROJECT_DIR$/Tarea/.idea/.rakeTasks" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tarea/.idea/Tarea.iml" afterPath="$PROJECT_DIR$/Tarea/.idea/Tarea.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tarea/.idea/workspace.xml" afterPath="$PROJECT_DIR$/Tarea/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tarea/Gemfile.lock" afterPath="$PROJECT_DIR$/Tarea/Gemfile.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tarea/config/routes.rb" afterPath="$PROJECT_DIR$/Tarea/config/routes.rb" />
+    </list>
+>>>>>>> aac9e97e91d9684091ba088b7955c17accaa1464
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -9,6 +20,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="FileEditorManager">
     <leaf />
   </component>
@@ -23,6 +35,10 @@
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
       </list>
     </option>
+=======
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+>>>>>>> aac9e97e91d9684091ba088b7955c17accaa1464
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -30,7 +46,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+<<<<<<< HEAD
   <component name="ProjectFrameBounds" extendedState="6">
+=======
+  <component name="ProjectFrameBounds">
+>>>>>>> aac9e97e91d9684091ba088b7955c17accaa1464
     <option name="x" value="-7" />
     <option name="y" value="2" />
     <option name="width" value="1378" />
@@ -51,6 +71,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
+=======
+      <pane id="Scope" />
+      <pane id="Scratches" />
+>>>>>>> aac9e97e91d9684091ba088b7955c17accaa1464
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -61,12 +86,30 @@
             <path>
               <item name="Tarea" type="b2602c69:ProjectViewProjectNode" />
               <item name="Tarea" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
               <item name="app" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="Tarea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tarea" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tarea" type="462c0819:PsiDirectoryNode" />
+              <item name="Tarea" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tarea" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tarea" type="462c0819:PsiDirectoryNode" />
+              <item name="Tarea" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+>>>>>>> aac9e97e91d9684091ba088b7955c17accaa1464
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
       <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="RailsProjectView" />
@@ -76,6 +119,15 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="RailsGeneratorsPopup.hiddenIncluded" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+=======
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Tarea" />
+>>>>>>> aac9e97e91d9684091ba088b7955c17accaa1464
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -89,6 +141,7 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Rails.Development: Tarea">
     <configuration name="Development: Tarea" type="RailsRunConfigurationType" factoryName="Rails">
       <predefined_log_file id="RUBY_RAILS_SERVER" enabled="true" />
@@ -175,12 +228,15 @@
       <item index="3" class="java.lang.String" itemvalue="Rails.Development: Tarea" />
     </list>
   </component>
+=======
+>>>>>>> aac9e97e91d9684091ba088b7955c17accaa1464
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
   <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="7e613bcf-7e1a-46cc-9c88-899805dcd6f9" name="Default" comment="" />
       <created>1502920989726</created>
       <option name="number" value="Default" />
@@ -189,10 +245,20 @@
       <workItem from="1502920991103" duration="198000" />
       <workItem from="1502921796728" duration="648000" />
       <workItem from="1502925074539" duration="103000" />
+=======
+      <changelist id="555a84da-052c-4f4d-9c2e-b74734bf5d74" name="Default" comment="" />
+      <created>1502926882690</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1502926882690</updated>
+      <workItem from="1502926884183" duration="25000" />
+      <workItem from="1502926923678" duration="248000" />
+>>>>>>> aac9e97e91d9684091ba088b7955c17accaa1464
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="949000" />
   </component>
   <component name="ToolWindowManager">
@@ -204,6 +270,19 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+=======
+    <option name="totallyTimeSpent" value="273000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="2" width="1378" height="733" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2496329" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+>>>>>>> aac9e97e91d9684091ba088b7955c17accaa1464
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -227,6 +306,7 @@
     <breakpoint-manager />
     <watches-manager />
   </component>
+<<<<<<< HEAD
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
@@ -285,4 +365,6 @@
       </provider>
     </entry>
   </component>
+=======
+>>>>>>> aac9e97e91d9684091ba088b7955c17accaa1464
 </project>
